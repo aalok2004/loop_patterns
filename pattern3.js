@@ -13,6 +13,7 @@ for(let i=0;i<6;i++)
             }
             
             
+            
         for(let z=0;z<i;z++)
             {
              str=str+"*"
