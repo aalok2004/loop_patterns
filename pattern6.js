@@ -14,9 +14,7 @@ for(let a=0;a<5;a++)
         for(let b=0;b<5-a;b++)
             {
                 str1=str1+" ";
-            }
-            
-            
+            } 
         for(let c=0;c<a;c++)
             {
              str1=str1+"* "
